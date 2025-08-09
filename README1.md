@@ -5,30 +5,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Bit404]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Shaheen] - [College]
+- Member 2: [Asin Dev] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Ragebait Website]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[lack of rage inducing things in the world.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Our goal is to create the most annoying website.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css,java]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [Lovable,ChatGPT,Vercel]
 
 For Hardware:
 - [List main components]
